@@ -1,5 +1,7 @@
 /*
-  Question: Write a program asks the user to enter a string. It uses the character classification functions to count the number of characters in several categories and displays the results. (Digits, Lowercase Letters, Punctuation Characters, White Space Characters, Uppercase Letters, Total Characters and so on.) 
+  Question: Write a program asks the user to enter a string. 
+  It uses the character classification functions to count the number of characters in several categories and displays the results. 
+  (Digits, Lowercase Letters, Punctuation Characters, White Space Characters, Uppercase Letters, Total Characters and so on.) 
   
   Fatmanur Baş 3.12.2022
 */
